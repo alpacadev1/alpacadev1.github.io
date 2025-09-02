@@ -5,5 +5,5 @@ Welcome to my GitHub Pages site! This is a static website hosted at https://alpa
 ## About
 Blog
 ## Setup
-- Built with HTML/CSS/JS or [Jekyll/Hugo].
+- Built with HTML/CSS/JS
 - Hosted on GitHub Pages.
